@@ -335,7 +335,8 @@ footer {
         column-count: 2;
     }
 
-    /* #menu {
-        padding-left: 0;
-    } */
+    #menu {
+        padding-left: 5%;
+        margin-left: 0;
+    }
 }
