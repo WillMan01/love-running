@@ -334,4 +334,8 @@ footer {
     #photos {
         column-count: 2;
     }
+
+    /* #menu {
+        padding-left: 0;
+    } */
 }
