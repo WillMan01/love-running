@@ -339,4 +339,8 @@ footer {
         padding-left: 5%;
         margin-left: 0;
     }
+
+    .social-networks ul {
+        padding-left: 0;
+    }
 }
